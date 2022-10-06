@@ -59,7 +59,7 @@ https://github.com/ChoiRamsey/zinwoos/blob/main/%E1%84%8C%E1%85%B5%E1%86%AB%E1%8
   - 카테고리별 상품목록 정렬(쿼리스트링)
   - sort / 필터링
 
-### 상세페이지
+### **상세페이지**
 
 - api 호출
   - 상품정보(금액, 이름, 최대수량…)
