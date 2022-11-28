@@ -36,7 +36,7 @@ https://github.com/ChoiRamsey/zinwoos/blob/main/%E1%84%8C%E1%85%B5%E1%86%AB%E1%8
 - api 호출
   - 상품정보(금액, 이름, 최대수량…)
   - 옵션 및 수량 추가에 따른 총 상품금액 계산하여 보여줌
-  - 위시리스트 추가
+  - 위시리스트 추가 및 
   - 장바구니 추가
 
 - sub nav 모달
